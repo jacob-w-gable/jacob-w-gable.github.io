@@ -2,5 +2,4 @@
 layout: default
 ---
 
-# Hello world
-A test page
+# My Projects
