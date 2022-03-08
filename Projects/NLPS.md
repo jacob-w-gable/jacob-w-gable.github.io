@@ -1,8 +1,8 @@
 ---
 layout: default
-description: This is just another page
+description: [View on GitHub](https://github.com/jacob-w-gable/NLPS)
 ---
 
-## NLPS (Natural Language Processing Script)Welcome to another page
+## NLPS (Natural Language Processing Script)
 
-[back](./)
+[back](../)
