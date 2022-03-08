@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Jacob Gable
+description: Computer Science Student
 ---
 
 # My Portfolio
