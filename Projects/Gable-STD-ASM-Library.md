@@ -1,5 +1,6 @@
 ---
 layout: default
+show_downloads: true
 description: Easy-to-use helper macros for Intel 64-bit Assembly
 ---
 
